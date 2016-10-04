@@ -1,0 +1,16 @@
+{
+  "name": "audiogetter",
+  "version": "1.0.0",
+  "description": "Gets audio from internet",
+  "main": "downloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Lu",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "mkdirp": "^0.5.1",
+    "request": "^2.69.0"
+  }
+}

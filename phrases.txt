@@ -1,0 +1,1411 @@
+{
+  common_signs:[{
+    en: open
+  , fr: ouvert
+  }, {
+    en: closed (shop)
+  , fr: Fermé
+  }, {
+    en: closed (road)
+  , fr: Barrée
+  }, {
+    en: entrance
+  , fr: Entrée
+  }, {
+    en: exit
+  , fr: Sortie
+  }, {
+    en: push
+  , fr: Poussez
+  }, {
+    en: pull
+  , fr: Tirez
+  }, {
+    en: toilet
+  , fr: Toilette
+  }, {
+    en: men
+  , fr: Hommes
+  }, {
+    en: women
+  , fr: Femmes
+  }, {
+    en: forbidden
+  , fr: Interdit, Défendu
+  }]
+, basics: [{
+    en:Hello. (formal)
+  , fr:Bonjour
+  }, {
+    en: Hello (informal)
+  , fr: Salut
+  }, {
+    en: How are you? (formal)
+    fr: Comment allez-vous ?
+  }, {
+    en: How are you? (informal)
+    fr: Comment vas-tu?
+  }, {
+    en: How are you? (informal)
+    fr: Comment ça va ?
+  }, {
+    en: Fine, thank you. 
+    fr: Bien, merci
+  }, {
+    en: What is your name?
+    fr: Comment vous appellez vous ?
+  }, {
+    en: What is your name? (informal) 
+    fr: Comment t'appelles-tu?
+  }, {
+    en: My name is
+    fr: Je m'appelle
+  }, {
+    en: Nice to meet you. (masculine)
+    fr: Enchanté
+  }, {
+    en: Nice to meet you. (feminine)
+    fr: Enchantée
+  }, {
+    en: Please (formal)
+    fr: S'il vous plaît
+  }, {
+    en: Please (formal)
+    fr: Je vous prie
+  }, {
+    en: Please (informal)
+    fr: S'il te plaît
+  }, {
+    en: Thank you. 
+    fr: Merci
+  }, {
+    en: You're welcome
+    fr: De rien
+  }, {
+    en: Yes
+    fr: Oui
+  }, {
+    en: No
+    fr: Non
+  }, {
+    en: Excuse me
+    fr: Pardon
+  }, {
+    en: Excuse me
+    fr: Excusez-moi
+  }, {
+    en: (I am) Sorry
+    fr: (Je suis) Désolé
+  }, {
+    en: What's the time? 
+    fr: Quelle heure est-il ?
+  }, {
+    en: Goodbye 
+    fr: Au revoir
+  }, {
+    en: Goodbye (informal) 
+    fr: Salut
+  }, {
+    en: I can't speak French [well]. 
+    fr: Je ne parle pas [bien] français
+  }, {
+    en: Do you speak English? 
+    fr: Parlez-vous anglais ?
+  }, {
+    en: Is there someone here who speaks English? 
+    fr: Est-ce qu'il y a quelqu'un ici qui parle anglais ?
+  }, {
+    en: Is there someone here who speaks English? 
+    fr: Y a-t-il quelqu'un ici qui parle anglais ?
+  }, {
+    en: Help! 
+    fr: Au secours!
+  }, {
+    en: Look out! 
+    fr: Attention !
+  }, {
+    en: Have a nice day
+    fr: Bonne journee
+  }, {
+    en: Good Day, Good morning 
+    fr: Bonjour
+  }, {
+    en: Good evening. 
+    fr: Bonsoir
+  }, {
+    en: Good night. 
+    fr: Bonne nuit
+  }, {
+    en: Sweet dreams 
+    fr: Fais de beaux reves
+  }, {
+    en: I don't understand
+    fr: Je ne comprends pas
+  }, {
+    en: Where is the toilet? 
+    fr: Où sont les toilettes ?
+  }, {
+    en: How do you say _____? 
+    fr: Comment dit-on _____ ?
+  }, {
+    en: What is this called? 
+    fr: Comment appelle-t-on ceci ?
+  }, {
+    en: What is that called? 
+    fr: Comment appelle-t-on ça ?
+  }]
+, numbers: [{
+    en: 1 
+    fr: un
+  }, {
+    en: 1 
+    fr: une
+  }, {
+    en: 2 
+    fr: deux
+  }, {
+    en: 3 
+    fr: trois
+  }, {
+    en: 4 
+    fr: quatre
+  }, {
+    en: 5 
+    fr: cinq
+  }, {
+    en: 6 
+    fr: six
+  }, {
+    en: 7 
+    fr: sept
+  }, {
+    en: 8 
+    fr: huit
+  }, {
+    en: 9 
+    fr: neuf
+  }, {
+    en: 10 
+    fr: dix
+  }, {
+    en: 11 
+    fr: onze
+  }, {
+    en: 12 
+    fr: douze
+  }, {
+    en: 13 
+    fr: treize
+  }, {
+    en: 14 
+    fr: quatorze
+  }, {
+    en: 15 
+    fr: quinze
+  }, {
+    en: 16 
+    fr: seize
+  }, {
+    en: 17 
+    fr: dix-sept
+  }, {
+    en: 18 
+    fr: dix-huit
+  }, {
+    en: 19 
+    fr: dix-neuf
+  }, {
+    en: 20 
+    fr: vingt
+  }, {
+    en: 21 
+    fr: vingt-et-un
+  }, {
+    en: 22 
+    fr: vingt-deux
+  }, {
+    en: 23 
+    fr: vingt-trois
+  }, {
+    en: 30 
+    fr: trente
+  }, {
+    en: 40 
+    fr: quarante
+  }, {
+    en: 50 
+    fr: cinquante
+  }, {
+    en: 60 
+    fr: soixante
+  }, {
+    en: 70 
+    fr: soixante-dix
+  }, {
+    en: 70 (belgium Switzerland)
+    fr: septante
+  }, {
+    en: 80 (belgium)
+    fr: quatre-vingt
+  }, {
+    en: 80 (switzerland not geneva)
+    fr: huitante
+  }, {
+    en: 80 (switzerland
+    fr: octante
+  }, {
+    en: 90 
+    fr: quatre-vingt-dix
+  }, {
+    en: 90 (belgium and switzerland)
+    fr: nonante
+  }, {
+    en: 100 
+    fr: cent
+  }, {
+    en: 200 
+    fr: deux cent
+  }, {
+    en: 300 
+    fr: trois cent
+  }, {
+    en: 1000 
+    fr: mille
+  }, {
+    en: 2000 
+    fr: deux mille
+  }, {
+    en: 1,000,000 
+    fr: un million
+  }, {
+    en: one million euros
+    fr: un million d'euros.
+  }, {
+    en: number
+    fr: numéro
+  }, {
+    en: half 
+    fr: demi
+  }, {
+    en: half 
+    fr: moitié
+  }, {
+    en: less 
+    fr: moins
+  }, {
+    en: more 
+    fr: plus
+  }]
+, time: [{
+    en: now 
+    fr: maintenant
+  }, {
+    en: later 
+    fr: plus tard
+  }, {
+    en: before 
+    fr: avant
+  }, {
+    en: after 
+    fr: après
+  }, {
+    en: morning 
+    fr: le matin
+  }, {
+    en: in the morning 
+    fr: au matin
+  }, {
+    en: in the morning 
+    fr: dans la matinée
+  }, {
+    en: afternoon 
+    fr: l'après-midi
+  }, {
+    en: in the afternoon 
+    fr: dans l'après-midi
+  }, {
+    en: evening 
+    fr: le soir
+  }, {
+    en: in the evening
+    fr: dans la soirée
+  }, {
+    en: in the evening
+    fr: au soir
+  }, {
+    en: night 
+    fr: la nuit
+  }, {
+    en: in the night 
+    fr: à la nuit
+  }]
+, clock_time: [{
+    en: hour 
+    fr: heure
+  }, {
+    en: minute 
+    fr: minute
+  }, {
+    en: quarter 
+    fr: quart
+  }, {
+    en: quarter 
+    fr: le quart
+  }, {
+    en: quarter past seven
+    fr: sept heures et quart
+  }, {
+    en: quarter to five
+    fr: cinq heures moins le quart
+  }, {
+    en: half-past ten
+    fr: dix heures et demie
+  }, {
+    en: one am
+    fr: une heure du matin
+  }, {
+    en: two am
+    fr: deux heures du matin
+  }, {
+    en: noon
+    fr: midi
+  }, {
+    en: one pm
+    fr: treize heures
+  }, {
+    en: one pm
+    fr: une heure de l'après-midi
+  }, {
+    en: two pm
+    fr: quatorze heures
+  }, {
+    en: two pm
+    fr: deux heures de l'après-midi
+  }, {
+    en: six pm
+    fr: dix-huit heures
+  }, {
+    en: six pm
+    fr: six heures du soir
+  }, {
+    en: half past seven
+    fr: sept heures et demi
+  }, {
+    en: half past seven
+    fr: dix-neuf heures trente
+  }, {
+    en: midnight
+    fr: minuit
+  }]
+, duration: [{
+    en: minutes
+    fr: minutes
+  }, {
+    en: hours
+    fr: heures
+  }, {
+    en: days
+    fr: jours
+  }, {
+    en: weeks
+    fr: semaines
+  }, {
+    en: months
+    fr: mois
+  }, {
+    en: years
+    fr: ans
+  }, {
+    en: years
+    fr: années
+  }, {
+    en: daily 
+    fr: quotidien
+  }, {
+    en: weekly 
+    fr: hebdomadaire
+  }, {
+    en: monthly 
+    fr: mensuel
+  }, {
+    en: yearly 
+    fr: annuel
+  }]
+, days: [{
+    en: today 
+    fr: aujourd'hui
+  }, {
+    en: yesterday 
+    fr: hier
+  }, {
+    en: tomorrow 
+    fr: demain
+  }, {
+    en: this week 
+    fr: cette semaine
+  }, {
+    en: last week 
+    fr: la semaine dernière
+  }, {
+    en: next week 
+    fr: la semaine prochaine
+  }, {
+    en: Monday 
+    fr: lundi
+  }, {
+    en: Tuesday 
+    fr: mardi
+  }, {
+    en: Wednesday 
+    fr: mercredi
+  }, {
+    en: Thursday 
+    fr: jeudi
+  }, {
+    en: Friday 
+    fr: vendredi
+  }, {
+    en: Saturday 
+    fr: samedi
+  }, {
+    en: Sunday 
+    fr: dimanche
+  }]
+, colors: [{
+    en: black 
+    fr: noir
+  }, {
+    en: black 
+    fr: noire
+  }, {
+    en: white 
+    fr: blanc
+  }, {
+    en: white 
+    fr: blanche
+  }, {
+    en: gray 
+    fr: gris
+  }, {
+    en: gray 
+    fr: grise
+  }, {
+    en: red 
+    fr: rouge
+  }, {
+    en: blue 
+    fr: bleu
+  }, {
+    en: blue 
+    fr: bleue
+  }, {
+    en: yellow 
+    fr: jaune
+  }, {
+    en: green 
+    fr: vert
+  }, {
+    en: green 
+    fr: verte
+  }, {
+    en: orange 
+    fr: orange
+  }, {
+    en: purple 
+    fr: violette
+  }, {
+    en: purple 
+    fr: violet
+  }, {
+    en: brown 
+    fr: brune
+  }, {
+    en: brown 
+    fr: brun
+  }, {
+    en: brown 
+    fr: marron
+  }, {
+    en: pink 
+    fr: rose
+  }]
+}
+### Basics[edit]
+    en: Hello (formal)
+    fr: Bonjour
+  }, {
+    en: Hello (informal) 
+    fr: Salut
+  }, {
+    en: How are you? (formal)
+    fr: Comment allez-vous ?
+  }, {
+    en: How are you? (informal)
+    fr: Comment vas-tu?
+  }, {
+    en: How are you? (informal)
+    fr: Comment ça va ?
+  }, {
+    en: Fine, thank you. 
+    fr: Bien, merci
+  }, {
+    en: What is your name?
+    fr: Comment vous appellez vous ?
+  }, {
+    en: What is your name? (informal) 
+    fr: Comment t'appelles-tu?
+  }, {
+    en: My name is
+    fr: Je m'appelle
+  }, {
+    en: Nice to meet you. (masculine)
+    fr: Enchanté
+  }, {
+    en: Nice to meet you. (feminine)
+    fr: Enchantée
+  }, {
+    en: Please (formal)
+    fr: S'il vous plaît
+  }, {
+    en: Please (formal)
+    fr: Je vous prie
+  }, {
+    en: Please (informal)
+    fr: S'il te plaît
+  }, {
+    en: Thank you. 
+    fr: Merci
+  }, {
+    en: You're welcome
+    fr: De rien
+  }, {
+    en: Yes
+    fr: Oui
+  }, {
+    en: No
+    fr: Non
+  }, {
+    en: Excuse me
+    fr: Pardon
+  }, {
+    en: Excuse me
+    fr: Excusez-moi
+  }, {
+    en: (I am) Sorry
+    fr: (Je suis) Désolé
+  }, {
+    en: What's the time? 
+    fr: Quelle heure est-il ?
+  }, {
+    en: Goodbye 
+    fr: Au revoir
+  }, {
+    en: Goodbye (informal) 
+    fr: Salut
+  }, {
+    en: I can't speak French [well]. 
+    fr: Je ne parle pas [bien] français
+  }, {
+    en: Do you speak English? 
+    fr: Parlez-vous anglais ?
+  }, {
+    en: Is there someone here who speaks English? 
+    fr: Est-ce qu'il y a quelqu'un ici qui parle anglais ?
+  }, {
+    en: Is there someone here who speaks English? 
+    fr: Y a-t-il quelqu'un ici qui parle anglais ?
+  }, {
+    en: Help! 
+    fr: Au secours!
+  }, {
+    en: Look out! 
+    fr: Attention !
+  }, {
+    en: Have a nice day
+    fr: Bonne journee
+  }, {
+    en: Good Day, Good morning 
+    fr: Bonjour
+  }, {
+    en: Good evening. 
+    fr: Bonsoir
+  }, {
+    en: Good night. 
+    fr: Bonne nuit
+  }, {
+    en: Sweet dreams 
+    fr: Fais de beaux reves
+  }, {
+    en: I don't understand
+    fr: Je ne comprends pas
+  }, {
+    en: Where is the toilet? 
+    fr: Où sont les toilettes ?
+  }, {
+    en: How do you say _____? 
+    fr: Comment dit-on _____ ?
+  }, {
+    en: What is this called? 
+    fr: Comment appelle-t-on ceci ?
+  }, {
+    en: What is that called? 
+    fr: Comment appelle-t-on ça ?
+  }, {
+
+Numbers[edit]
+    en: 1 
+    fr: un
+  }, {
+    en: 1 
+    fr: une
+  }, {
+    en: 2 
+    fr: deux
+  }, {
+    en: 3 
+    fr: trois
+  }, {
+    en: 4 
+    fr: quatre
+  }, {
+    en: 5 
+    fr: cinq
+  }, {
+    en: 6 
+    fr: six
+  }, {
+    en: 7 
+    fr: sept
+  }, {
+    en: 8 
+    fr: huit
+  }, {
+    en: 9 
+    fr: neuf
+  }, {
+    en: 10 
+    fr: dix
+  }, {
+    en: 11 
+    fr: onze
+  }, {
+    en: 12 
+    fr: douze
+  }, {
+    en: 13 
+    fr: treize
+  }, {
+    en: 14 
+    fr: quatorze
+  }, {
+    en: 15 
+    fr: quinze
+  }, {
+    en: 16 
+    fr: seize
+  }, {
+    en: 17 
+    fr: dix-sept
+  }, {
+    en: 18 
+    fr: dix-huit
+  }, {
+    en: 19 
+    fr: dix-neuf
+  }, {
+    en: 20 
+    fr: vingt
+  }, {
+    en: 21 
+    fr: vingt-et-un
+  }, {
+    en: 22 
+    fr: vingt-deux
+  }, {
+    en: 23 
+    fr: vingt-trois
+  }, {
+    en: 30 
+    fr: trente
+  }, {
+    en: 40 
+    fr: quarante
+  }, {
+    en: 50 
+    fr: cinquante
+  }, {
+    en: 60 
+    fr: soixante
+  }, {
+    en: 70 
+    fr: soixante-dix
+  }, {
+    en: 70 (belgium Switzerland)
+    fr: septante
+  }, {
+    en: 80 (belgium)
+    fr: quatre-vingt
+  }, {
+    en: 80 (switzerland not geneva)
+    fr: huitante
+  }, {
+    en: 80 (switzerland
+    fr: octante
+  }, {
+    en: 90 
+    fr: quatre-vingt-dix
+  }, {
+    en: 90 (belgium and switzerland)
+    fr: nonante
+  }, {
+    en: 100 
+    fr: cent
+  }, {
+    en: 200 
+    fr: deux cent
+  }, {
+    en: 300 
+    fr: trois cent
+  }, {
+    en: 1000 
+    fr: mille
+  }, {
+    en: 2000 
+    fr: deux mille
+  }, {
+    en: 1,000,000 
+    fr: un million
+  }, {
+    en: one million euros
+    fr: un million d'euros.
+  }, {
+    en: number
+    fr: numéro
+  }, {
+    en: half 
+    fr: demi
+  }, {
+    en: half 
+    fr: moitié
+  }, {
+    en: less 
+    fr: moins
+  }, {
+    en: more 
+    fr: plus
+  }, {
+
+Time[edit]
+    en: now 
+    fr: maintenant
+  }, {
+    en: later 
+    fr: plus tard
+  }, {
+    en: before 
+    fr: avant
+  }, {
+    en: after 
+    fr: après
+  }, {
+    en: morning 
+    fr: le matin
+  }, {
+    en: in the morning 
+    fr: au matin
+  }, {
+    en: in the morning 
+    fr: dans la matinée
+  }, {
+    en: afternoon 
+    fr: l'après-midi
+  }, {
+    en: in the afternoon 
+    fr: dans l'après-midi
+  }, {
+    en: evening 
+    fr: le soir
+  }, {
+    en: in the evening
+    fr: dans la soirée
+  }, {
+    en: in the evening
+    fr: au soir
+  }, {
+    en: night 
+    fr: la nuit
+  }, {
+    en: in the night 
+    fr: à la nuit
+  }, {
+
+Clock time[edit]
+    en: hour 
+    fr: heure
+  }, {
+    en: minute 
+    fr: minute
+  }, {
+    en: quarter 
+    fr: quart
+  }, {
+    en: quarter 
+    fr: le quart
+  }, {
+    en: quarter past seven
+    fr: sept heures et quart
+  }, {
+    en: quarter to five
+    fr: cinq heures moins le quart
+  }, {
+    en: half-past ten
+    fr: dix heures et demie
+  }, {
+    en: one am
+    fr: une heure du matin
+  }, {
+    en: two am
+    fr: deux heures du matin
+  }, {
+    en: noon
+    fr: midi
+  }, {
+    en: one pm
+    fr: treize heures
+  }, {
+    en: one pm
+    fr: une heure de l'après-midi
+  }, {
+    en: two pm
+    fr: quatorze heures
+  }, {
+    en: two pm
+    fr: deux heures de l'après-midi
+  }, {
+    en: six pm
+    fr: dix-huit heures
+  }, {
+    en: six pm
+    fr: six heures du soir
+  }, {
+    en: half past seven
+    fr: sept heures et demi
+  }, {
+    en: half past seven
+    fr: dix-neuf heures trente
+  }, {
+    en: midnight
+    fr: minuit
+  }, {
+
+Duration[edit]
+    en: minutes
+    fr: minutes
+  }, {
+    en: hours
+    fr: heures
+  }, {
+    en: days
+    fr: jours
+  }, {
+    en: weeks
+    fr: semaines
+  }, {
+    en: months
+    fr: mois
+  }, {
+    en: years
+    fr: ans
+  }, {
+    en: years
+    fr: années
+  }, {
+    en: daily 
+    fr: quotidien
+  }, {
+    en: weekly 
+    fr: hebdomadaire
+  }, {
+    en: monthly 
+    fr: mensuel
+  }, {
+    en: yearly 
+    fr: annuel
+  }, {
+
+Days[edit]
+    en: today 
+    fr: aujourd'hui
+  }, {
+    en: yesterday 
+    fr: hier
+  }, {
+    en: tomorrow 
+    fr: demain
+  }, {
+    en: this week 
+    fr: cette semaine
+  }, {
+    en: last week 
+    fr: la semaine dernière
+  }, {
+    en: next week 
+    fr: la semaine prochaine
+  }, {
+    en: Monday 
+    fr: lundi
+  }, {
+    en: Tuesday 
+    fr: mardi
+  }, {
+    en: Wednesday 
+    fr: mercredi
+  }, {
+    en: Thursday 
+    fr: jeudi
+  }, {
+    en: Friday 
+    fr: vendredi
+  }, {
+    en: Saturday 
+    fr: samedi
+  }, {
+    en: Sunday 
+    fr: dimanche
+  }, {
+
+Colors[edit]
+    en: black 
+    fr: noir
+  }, {
+    en: black 
+    fr: noire
+  }, {
+    en: white 
+    fr: blanc
+  }, {
+    en: white 
+    fr: blanche
+  }, {
+    en: gray 
+    fr: gris
+  }, {
+    en: gray 
+    fr: grise
+  }, {
+    en: red 
+    fr: rouge
+  }, {
+    en: blue 
+    fr: bleu
+  }, {
+    en: blue 
+    fr: bleue
+  }, {
+    en: yellow 
+    fr: jaune
+  }, {
+    en: green 
+    fr: vert
+  }, {
+    en: green 
+    fr: verte
+  }, {
+    en: orange 
+    fr: orange
+  }, {
+    en: purple 
+    fr: violette
+  }, {
+    en: purple 
+    fr: violet
+  }, {
+    en: brown 
+    fr: brune
+  }, {
+    en: brown 
+    fr: brun
+  }, {
+    en: brown 
+    fr: marron
+  }, {
+    en: pink 
+    fr: rose
+  }, {
+
+Problems[edit]
+en: Leave me alone
+fr: Laissez-moi tranquille!
+  }, {
+en: Buzz off
+fr: Dégage! (day-GAHZH!) / Va t'en! (va TAHN) / Décâlisse ! (day-kaw-LISSE)
+  }, {
+en: Don't touch me! 
+fr: Ne me touchez pas! (nuh muh TOOSH-ay PAH!)
+  }, {
+en: I'm calling the police. 
+fr: J'appelle la police. (zhah-PELL la poh-LEES)
+  }, {
+en: Police! 
+fr: Police! (poh-LEES)
+  }, {
+en: Stop! Rapist! 
+fr: Arrêtez! Au viol! (ah-reh-TAY! oh vee-YOL!)
+  }, {
+en: Stop! Thief! 
+fr: Arrêtez! Au voleur! (ah-reh-TAY! oh vo-LEUR!)
+  }, {
+en: Help! 
+fr: Au secours! (oh suh-KOOR!)
+  }, {
+en: Fire! 
+fr: Au feu! (oh FUH!)
+  }, {
+en: I need your help. 
+fr: Aidez-moi, s'il vous plaît! (aih-day MWAH, SEEL voo PLEH!)
+  }, {
+en: It's an emergency. 
+fr: C'est une urgence! (seh tuun uur-ZHAHNS)
+  }, {
+en: I'm lost. 
+fr: Je suis perdu. (ZHUH swee pehr-DUU')
+  }, {
+en: I've lost my bag. 
+fr: J'ai perdu mon sac. (zhay pehr-DUU mohn SAK)
+  }, {
+en: I've lost my wallet. 
+fr: J'ai perdu mon portefeuille. (zhay pehr-DUU mohn POHR-tuh-fuhy)
+  }, {
+en: I'm sick. 
+fr: Je suis malade. (zhuh swee mah-LAD)
+  }, {
+en: I've been injured. 
+fr: Je me suis blessé. (zhuh muh swee bleh-SAY)
+  }, {
+en: I was raped. 
+fr: J'ai été violé(e). (zhay ay-TAY vee-yol-ay)
+  }, {
+en: I need a doctor. 
+fr: J'ai besoin d'un médecin. (zhay buh-ZWAHN dun may-TSAN)
+  }, {
+en: Can I use your phone/mobile phone? 
+fr: Puis-je utiliser votre téléphone/portable? (pwee zhuh uu-tee-lee-ZAY vot-ruh tay-lay-FONE/por-tahb-le)
+  }, {
+en: What is it? 
+fr: Qu'y a-t-il? (kee ah-TEEL)
+  }, {
+
+Transportation[edit]
+French phrasebook station.png
+Bus and Train[edit]
+How much is a ticket to _____? 
+Combien coûte le billet pour _____? (kom-BYAN koot luh bee-YEH poor)
+One ticket to _____, please. 
+Un billet pour _____, s'il vous plaît. (ung bee-YEH poor ____ seel voo pleh)
+Where does this train/bus go? 
+Où va ce train/bus? (OO va suh trahn/buus?)
+Where is the train/bus to _____? 
+Où est le train/bus pour _____ ? (OO eh luh trahn/buus poor ____)
+Does this train/bus stop in _____? 
+Ce train/bus s'arrête-t-il à _____? (suh trahn/buus sah-reh-tuh-TEEL ah _____)
+When does the train/bus for _____ leave? 
+Quand part le train/bus pour _____? (kahn par luh trahn/buus poor _____)
+When will this train/bus arrive in _____? 
+Quand ce train/bus arrivera à _____? (kahn suh trahn/buus ah-ree-vuh-RAH ah _____)
+the/this shuttle 
+la/cette navette (lah/set nah-VET) (also means a tatting shuttle)
+a one-way ticket
+un aller simple (uhn ah-LAY SAM-pluh)
+a round trip ticket
+un aller-retour (uhn ah-LAY ruh-TOOR)
+Directions[edit]
+Where is _____? 
+Où se trouve _____? (oo suh tr-OO-v _____)
+...the train station? 
+...la gare? (lah gahr?)
+...the bus station? 
+...la gare routière? (lah gahr roo-TYEHR?)
+...the airport? 
+...l'aéroport? (lehr-oh-POR?)
+...the American/Canadian/Australian/British embassy? 
+...l'ambassade americaine/canadienne/australienne/anglaise? (lahm-bah-SAHD a-may-ree-KEN/ka-na-DYEN/os-trah-lee-EN/ahn-GLEZ)
+Taxi[edit]
+Taxi! 
+Taxi ! (tack-SEE!)
+Take me to _____, please. 
+Déposez-moi à _____, je vous prie. (DAY-poh-zay-MWAH ah _____, zhuh voo PREE)
+How much does it cost to get to _____? 
+Combien cela coûte-t-il d'aller à _____ ? (kahm-BYENG suh-LA koo-TEEL dah-LAY ah _____?)
+Take me there, please. 
+Amenez-moi là, je vous prie. (am-nay-mwah LAH, zhuh voo PREE)
+Money[edit]
+Do you accept American/Australian/Canadian dollars? 
+Acceptez-vous les dollars américains/australiens/canadiens ? (ahk-sep-tay VOO leh doh-LAHR ah-may-ree-KANG/aws-trah-LYAHNG/kah-nah-DYAHNG?)
+Do you accept British pounds? 
+Acceptez-vous les livres Sterling ? (ahk-sep-tay VOO leh leevr stehr-LING?)
+Do you accept credit cards? 
+Acceptez-vous les cartes de credit ? (ahk-sep-tay VOO leh kahrt duh kray-DEE?)
+Can you change money for me? 
+Pouvez-vous me faire le change ? (poo-vay-VOO muh fehr luh SHAHNZH?)
+Where can I get money changed? 
+Où puis-je faire le change ? (oo PWEEZH fehr luh SHAHNZH?)
+Can you change a traveler's check for me? 
+Pouvez-vous me faire le change sur un traveler's chèque ? (poo-vay-VOO muh fehr luh SHAHNZH suur ung trahv-leurz SHECK?)
+Where can I get a traveler's check changed? 
+Où puis-je changer un traveler's chèque ? (oo PWEEZH shahng-ZHAY ung trahv-leurz SHECK?)
+What is the exchange rate? 
+Quel est le taux de change ? (KELL eh luh TAW duh SHAHNZH?)
+Where is an automatic teller machine (ATM)? 
+Où puis-je trouver un distributeur de billets ? (oo PWEEZH troo-VAY ung dees-tree-buu-TEUR duh bee-YEAH?)
+Eating[edit]
+fixed-price meal 
+menu (muh-NUU)
+à la carte 
+à la carte (ah lah KAHRT)
+breakfast (in France)
+petit-déjeuner (ptee-day-zheu-NAY)
+breakfast (in Switzerland/Belgium/Canada/Nord-Pas-de-Calais)
+déjeuner (day-zheu-NAY)
+lunch (in France)
+déjeuner (day-zhuh-NAY)
+lunch (Switzerland/Belgium/Quebec/Nord-Pas-de-Calais)
+dîner (dee-NAY)
+tea (meal) 
+thé (tay)
+dinner/supper (in France)
+dîner (dee-NAY)
+dinner/supper (Elsewhere)
+souper (soo-PAY)
+I would like _____. 
+Je voudrais _____. (zhuh voo-DREH _____)
+I would like a dish containing _____. 
+Je voudrais un plat avec _____. (zhuh voo-DREH ung plah ah-VEK _____)
+chicken 
+(du) poulet (duu poo-LEH)
+beef 
+(du) boeuf (duu BUFF)
+deer 
+du cerf (dü SEHR)
+fish 
+du poisson (duu pwa-SONG)
+salmon 
+du saumon (duu so-MONG)
+tuna 
+du thon (duu TONG)
+whiting 
+du merlan (duu mehr-LANG)
+cod 
+de la morue (duh lah moh-RUU)
+seafood 
+des fruits de mer (deh frwee duh MEHR)
+Literally "fruits of the sea"
+dulse 
+de la dulse (duh lah DUULS)
+lobster 
+du homard (duu oh-MAR)
+de la langouste (duh lah lan-goost) (rock lobster)
+clams 
+des palourdes (deh pah-LOORD)
+oysters 
+des huîtres (dez WEETR)
+mussels 
+des moules (deh MOOL)
+snails 
+des escargots (dez es-car-GOH)
+frogs 
+des grenouilles (deh gruh-NOOEY)
+ham 
+du jambon (duu zhahng-BONG)
+pork 
+du porc/cochon (dü POHR/dü coh-SHONG)
+Note: porc means "pork" / cochon means "pig".
+boar 
+du sanglier (dü sahng-GLYAY)
+sausage 
+des saucisses (deh so-SEESS)
+cheese 
+du fromage (duu froh-MAHZH)
+eggs 
+des oeufs (dehz UH)
+one egg 
+un oeuf (un UF)
+salad 
+une salade (uun sah-LAHD)
+(fresh) vegetables 
+des légumes (frais) (deh lay-guum FREH)
+(fresh) fruit 
+des fruits (frais) (frwee (freh))
+bread 
+du pain (dew pang)
+toast 
+du pain grillé (dew pang ...)
+coffee 
+café (kah-FAY)
+tea (drink) 
+thé (tay)
+juice 
+jus (zhuu)
+(bubbly) water 
+eau gazeuse (oh gah-ZUHZ)
+water 
+eau (oh)
+Note: If you ask for "water", you will get mineral water. To specify "tap water", say "eau du robinet" (OH doo roh-bee-NEH) or ask for a carafe of water "une carafe d'eau" (OON cahr-AHF doh).
+beer 
+bière (byehr)
+red/white wine 
+vin rouge/blanc (vang roozh/blahng)
+May I have some _____? 
+Puis-je avoir du _____ ? (pwee zhuh ah-VWAHR duu)
+salt 
+sel (sel)
+black pepper 
+poivre (pwavr)
+garlic 
+ail (aigh)
+butter 
+beurre (bur)
+vegetarian (male)
+végétarien (vey-zhey-tar-YENG)
+vegetarian (female)
+végétarienne (vey-zhey-tar-YEN)
+Excuse me, waiter/waitress? 
+S'il vous plaît, monsieur/madame ? (seell voo PLEH muh-syuh/ma-dahm)
+Note: "garçon" (boy) is offensive and should be avoided.
+I'm finished. 
+J'ai fini. (zhay fee-NEE)
+It was delicious. 
+C'était délicieux. (say-tay deli-SYUH)
+Can you please clear the plates? 
+Pouvez-vous débarrasser la table, s'il vous plaît? (poovay voo DEH-bahr-a-seh lah tah-bluh seel voo play)
+The check, please. 
+L'addition s'il vous plait. (lah-dee-SYOHN seel voo play)
+Bars[edit]
+Do you serve alcohol? 
+Servez-vous des boissons alcoolisées ? (sur-VAY voo day bwa-sson al-co-ol-ee-SAY)
+Is there table service? 
+Est-ce que vous servez à la table ? (Ess-ser ker voo ser-VAY ah lah TAHBL?)
+A beer/two beers, please. 
+Une bière/deux bières, s'il vous plait. (...)
+What do you have on tap? 
+Qu'est-ce que vous avez à la pression (KESS-kuh vooz ah-VAY ah lah press-YUNH?)
+A glass of red/white wine, please. 
+Un verre de vin rouge/blanc, s'il vous plait. (...)
+A quarter liter of beer, please 
+Un demi, s'il-vous-plaît. (...)
+A pint, please. 
+Une pinte, s'il vous plait. (oon peent, seel-voo-PLEH)
+A bottle, please. 
+Une bouteille, s'il vous plait. (...)
+_____ (hard liquor) and _____ (mixer), please. 
+_____ et _____, s'il vous plait. (...)
+whiskey 
+whisky (...)
+vodka 
+vodka (...)
+rum 
+rhum (...)
+water 
+de l'eau (duh loh)
+club soda 
+soda (...)
+tonic water 
+Schweppes (...)
+orange juice 
+jus d'orange (joo d'or-AHNJ)
+Coke (soda) 
+Coca (...)
+One more, please. 
+Encore un/une autre, s'il vous plait. (ahn-KOHR ahn/oon oh-truh, seel-voo-PLEH)
+Another round, please. 
+Une autre tournée, s'il vous plait. (...)
+When is closing time? 
+À quelle heure fermez-vous ? (ah kell er fer-MAY voo)
+Shopping[edit]
+Do you have this in my size? 
+Avez-vous ceci dans ma taille ? (AH-veh-VOO say-SEE dan sma THAI)
+How much (is this)? 
+Combien (ça) coûte ? (COMM-bee-yen (SAH) coot)
+That's too expensive. 
+C'est trop cher. (say-TRO-shair)
+Would you take _____? 
+Pourriez-vous accepter _____ ? (poor-yay-VOOZ ahk-sep-TAY)
+expensive 
+cher (shehr)
+cheap 
+bon marché (bong mar-SHAY) (not declined. Elles sont bon marché.)
+or pas cher (pah shehr) ("not expensive". Less formal but more common.)
+I can't afford it. 
+Je n'ai pas les moyens. (zhe nay pah leh mwah-YAHNG)
+I don't want it. 
+Je n'en veux pas. (zhe nahng veu pah)
+You're cheating me. 
+Vous essayez de m'avoir. (vooz ess-ey-YE duh mah-VWAHR)
+I'm not interested. 
+Je ne suis pas intéressé. (zhen swee pahz-ann-tay-ress-SAY)
+OK, I'll take it. 
+D'accord, je le/la prends. (dah-kor zhe luh/lah prahn)
+Can I have a bag? 
+Pourrais-je avoir un sac ? (poo-REHZH ah-VWAR ung sahk)
+Do you ship (overseas)? 
+Livrez-vous (outre-mer/à l'étranger) ? (leev-ray-VOO ootr-MEHR/ah lay-trahn-ZHAY)
+I need... 
+J'ai besoin... (zhay buh-ZWANG)
+...toothpaste. 
+...de dentifrice. (deh dahn-tee-FREESS)
+...a toothbrush. 
+...d'une brosse à dents. (duun bross ah DAHN)
+...tampons. 
+...de tampons. (deh tahm-POHN)
+...soap. 
+...de savon. (deh sah-VOHN)
+...shampoo. 
+...de shampooing. (deh shahm-PWAHN)
+...pain reliever. (e.g., aspirin or ibuprofen) 
+...d'un analgésique (aspirine, ibuprofène);. (dun ah-nal-zhay-ZEEK (ahs-pee-REEN/ee-buu-proh-FEN))
+...cold medicine. 
+...d'un médicament pour le rhume. (dung may-dee-kah-MAHNG poor luh RUUM)
+...stomach medicine. 
+...d'un remède pour l'estomac. (dung ray-MED poor less-toh-MAHK)
+...a razor. 
+...d'un rasoir. (dung rah-ZWAR)
+...batteries. 
+...de piles. (deh PEEL)
+...an umbrella. (rain) 
+...d'un parapluie. (doon pah-ra-ploo-ee)
+...an umbrella. (sun) 
+...d'une ombrelle. (doon ohm-brehl-ee)
+...sunblock lotion. 
+...de crème solaire. (deh crehm so-LEHR)
+...a postcard. 
+...d'une carte postale. (doon kahrt post-AL)
+...postage stamps. 
+...de timbres. (deh TAHM-burs)
+...writing paper. 
+...de papier à lettres. (deh pap-YEH ah LEH-TR)
+...a pen. 
+...d'un stylo. (doon STEE-loh)
+...English-language books. 
+...de livres en anglais. (deh LEE-vruhs ehn ahngh-LEH)
+...English-language magazines. 
+...de revues en anglais. (deh REH-voos ehn ahngh-LEH)
+...an English-language newspaper. 
+...d'un journal en anglais. (doon zhoar-NAL ahn ahng-LEH)
+...a French-English dictionary. 
+...d'un dictionnaire français-anglais. (uhn deect-shee-ohn-AIR frahn-SEH ahng-LEH)
+Authority[edit]
+I haven't done anything wrong. 
+Je n'ai fait rien de mal. (zhuh nay fay ree-AHN duh MAL)
+It was a misunderstanding. 
+C'est une erreur. (say uhn air-ehur)
+Where are you taking me? 
+Où m'emmenez-vous? (ooh mehm-en-EH voo)
+Am I under arrest? 
+Suis-je en état d'arrestation? (SWEE zhuh ahn EH-tah dahr-es-tash-ON)
+I am an American/Australian/British/Canadian citizen. (m) 
+Je suis un citoyen américain/australien/anglais/canadien. (zhuh swee uhn see-twa-YAHN a-may-ree-CAN/os-trah-lee-AHN/ahn-GLEH/ka-na-DYAN)
+I am an American/Australian/British/Canadian citizen. (f) 
+Je suis une citoyenne américaine/australienne/anglaise/canadienne. (zhe s'wee oon see-twa-YEN a-may-ree-KEN/os-trah-lee-EN/ahn-GLEZ/ka-na-DYEN)
+I want to talk to the American/Australian/British/Canadian embassy or consulate. 
+Je veux parler à l'ambassade ou le consulat américain/australien/anglais/canadien. (ZHUH vuh pahr-LEUR ah lahm-ba-SAHD oo KAHN-sul-aht a-may-ree-CAN/os-trah-lee-AHN/ahn-GLEH/ka-na-DYAN)
+I want to talk to a lawyer. 
+Je voudrais parler à un avocat. (ZHUH vood-RAY par-lehr ah uhn AH-vo-caht) ("avocat" also means "avocado" but people don't normally talk to avocados!)
